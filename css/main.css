@@ -1,0 +1,205 @@
+*{padding:0; margin:0; font-family: sans-serif;}
+
+/* Header section start */
+
+.header{height: 90px; width:100%; display: flex; align-items: center;}
+.header .logo img{width:70px;}
+.header .logo{width:10%;}
+.header .nav-links{width:88%;}
+.header a{text-decoration:none; color:black; margin:5px; padding:10px;}
+.header .nav-links .row1{display: flex; justify-content: space-between; border-bottom: 0.4px solid lightgray; padding-bottom: 5px;}
+.header .nav-links .row2{display: flex; justify-content: space-between; padding-top: 5px;}
+
+/* Header section End  */`
+
+/* spider section start */
+.slider{width: 100%; height: 1100px; background-image: url("../img/banner.webp"); background-repeat: no-repeat; background-size: countain;}
+.slider a{text-decoration: none; color:white; background-color: maroon; padding: 15px; position: absolute; top: 90%; left: 10%; 
+}
+
+/*slider section End */
+
+/*wint section start */
+.wint{ width: 80%; height: 600px;   }
+.wint{display:flex; justify-content: center; align-items: center; margin: 0 auto;}
+.wint1 img{height: 275px;}
+.wint1{text-align:center; border: 1px solid grey; padding:20px 15px 20px 15px; border-radius: 10px;}
+
+.wint2{text-align:center; border: 1px solid grey; margin-right:40px; margin-left:40px; padding:20px 15px 20px 15px; border-radius: 10px }
+.wint2 img{width: 90%; height: 300px;}
+
+.wint3 img{ height: 300px; }
+.wint3{border: 1px solid grey; text-align:center; padding:20px 15px 20px 15px; border-radius: 10px;}
+
+/* wint section End */
+
+/* winter section start */
+.winter{width: 100%; height: 450px; background-image: url("../img/B2B\ Banner-01-01.webp"); background-size: cover; margin-top: 100px; text-align: center; }
+.winter .btn{padding-top: 150px;}
+.winter a{text-decoration: none; color: white; background-color: maroon; padding: 10px; border-radius: 5px;}
+.winter.btn a{text-decoration: none; color: white; background-color: maroon; padding: 10px; border-radius: 5px;}
+
+  
+
+
+/* winter Section End */
+
+/* pour Section Start */
+.pour{width: 90%; margin: auto; margin-top: 100px; display: flex; justify-content: space-evenly;}
+.pour1{width: 30%;}
+.pour1 img{width: 100%; height: 290px; object-fit: cover;}
+
+
+.pour2{width: 30%;}
+.pour2 img{width: 100%; height: 290px; object-fit: cover;}
+
+.pour3{width: 30%;}
+.pour3 img{width: 100%; height: 290px; object-fit: cover;}
+
+/* pour section end */
+
+/*you section start */
+.you{ width: 100%; border: 1px solid black; border-top: none; border-right: none; margin-top:60px; margin-bottom: 20px; padding-right: 10px; padding-left: 10px;}
+.underline{text-decoration: underline; color: maroon;}
+
+.you ul{display: flex; justify-content: center;}
+.you ul li{list-style: none; margin-left: 20px; margin-right: 20px; margin-bottom: 20px; }
+
+/* you section end */
+
+/* bread section start */
+.bread{width: 100%; display: flex; margin-top: 70px; justify-content: space-between; text-align: center;
+font-size: 20px; margin-bottom: 50px;}
+
+/* bread section end */
+
+/* beans section start */
+.beans{width: 100%; display: flex; justify-content: space-around; margin: auto; margin-top: 100px; }
+.beans .beans1{width: 40%; background-image: url("../img/africa-home-block-1-t.webp"); height: 650px; background-color: blue;
+background-size: cover; text-align: center;}
+
+
+
+
+
+
+
+
+
+
+/* this is the css for home appliance page */
+
+.cord{border: 0.4px solid lightgrey;} 
+
+/*cord section end */
+
+ /* corde section start */
+ .corde{margin-top: 25px; padding-left: 30px;} 
+
+ /* corde section end */
+
+ /* section1 start */
+ .section1{text-align: center; margin-top: 50px;}
+ .section1 h1{margin-bottom: 20px;}
+ .section1 h5{color: grey;}
+
+ /* section1 end */
+
+ /* section2 start */
+ .section2{width: 100%; height: 500px; background-image: url("../img/Home\ Appliance/africa-homeappliances-hero-1-d.jpg"); background-color: black; color: white; margin-top: 25px;}
+ .section2 h1{margin-left: 850px; font-size: 40px;}
+ .section2 p{margin-left: 850px; margin-top: 30px; margin-bottom: 30px;}
+ .section2 a{margin-top: 30px; margin-left: 850px; background-color: maroon; padding: 10px; border-radius: 5px;  }
+
+ /* section2 end */
+
+ /* section3 start */
+ .section3 .rol1{ text-align: center; font-size: 30px; margin-top: 30px; margin-bottom: 30px;} 
+  .section3 .COL{width: 100%; height: 1500px; display: flex; justify-content: space-between;}
+  .section3 .COL1{width: 25%; height: 150px;}
+  .section3 .COL1 img{width: 100%; height: 100px;}
+  .section3 .COL2{width: 25%; height: 150px;}
+  .section3 .COL2 img{width: 100%; height: 150px;}
+  .section3 .COL3{width: 25%; height: 150px;}
+  .section3 .COL3 img{width: 100%; height: 100px;}
+  .section3 .COL4{width: 25%; height: 150px;}
+  .section3 .COL4 img{width: 100%; height: 100px;}
+ 
+
+
+
+
+
+
+
+ /* sectione end */
+
+ /* Row start */
+
+ .Row .Row1{ text-align: center; margin-top: 50px; font-size: 25px;}
+ .colum{width: 90%; height: 100px; display: flex; justify-content: space-between; margin-left: 50px; margin-top: 40px;}
+.colum1 p{text-align: center; color: white; background-color: maroon; padding: 10px; border-radius: 5px; margin-top: 10px;}
+.colum2 p{text-align: center; color: white; background-color: maroon; padding: 10px; border-radius: 5px; margin-top: 10px;} 
+.colum3 p{text-align: center; color: white; background-color: maroon; padding: 10px; border-radius: 5px; margin-top: 10px;} 
+.colum4 p{text-align: center; color: white; background-color: maroon; padding: 10px; border-radius: 5px; margin-top: 10px;} 
+.colum5 p{text-align: center; color: white; background-color: maroon; padding: 10px; border-radius: 5px; margin-top: 10px;} 
+.colum6 p{text-align: center; color: white; background-color: maroon; padding: 10px; border-radius: 5px; margin-top: 10px;}
+
+/* Row section end */
+
+/* drive section start */
+.drive{width: 100%; height: 750px; background-image: url("../img/Home\ Appliance/africa-homeappliances-supercategory-5(1).jpg");  margin-top: 30px;}
+.drive h1{color: white;  font-size: 50px; margin-left: 900px; padding-top: 150px;}
+.drive h5{color: white; margin-left: 900px; padding-top: 30px; padding-bottom: 40px;}
+.drive a{color: white; margin-left: 900px; background-color: maroon; padding: 13px; border-radius: 5px;}
+
+/* drive section end */
+
+/* bring section start */
+.bring{width: 100%; height: 800px; background-image: url("../img/Home\ Appliance/africa-homeappliances-supercategory-6(1).jpg"); }
+.bring h1{color: white; font-size: 50px; margin-left: 900px; padding-top: 250px; padding-bottom: 40px;}
+.bring a{color: white; margin-left: 900px; background-color: maroon; padding: 13px; border-radius: 5px}
+
+/* bring section end */
+
+/* product section start */
+.product{text-align: center; margin-bottom: 30px; margin-top: 60px;}
+.product1 h1{font-size: 40px; margin-bottom: 20px;}
+.product2 p{color: grey;} 
+
+
+
+
+
+
+
+
+/* this is the css for tv_audio_video */
+
+/* pillow section start */
+.pillow{border: 0.4px solid lightgray ;}
+
+/* pillow section end */
+
+/* case section star */
+.case{margin-top: 20px; margin-left: 20px; color: grey; }
+
+/* case section end */
+
+/* Case section start */
+.Case{text-align: center; margin-top: 30px; }
+.Case2 h5{color: gray; margin-bottom: 20px;}
+
+/* Case section end */
+
+/* close sction start */
+.close{width: 100%; height: 600px; background-image: url("../img/africa-tvaudiovideo-hero-2-d.jpg"); background-color: black; margin-bottom: 20px;}
+.close1 h2{margin-left: 900px; padding-top: 210px; color: white; font-size: 40px; padding-bottom: 30px;}
+.close1 a{margin-left: 900px; color: white; background-color: maroon; padding: 13px; border-radius: 5px;}
+
+/* close section end */
+
+
+
+
+
